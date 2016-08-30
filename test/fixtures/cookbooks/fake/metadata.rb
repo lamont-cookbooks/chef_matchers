@@ -1,4 +1,4 @@
 name "fake"
 version "1.0.0"
 
-depends "multipackage"
+depends "chef_matchers"
